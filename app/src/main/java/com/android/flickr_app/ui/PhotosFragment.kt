@@ -22,7 +22,6 @@ class PhotosFragment : androidx.fragment.app.Fragment(), PhotosCallback {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View {
-        // Get a reference to the binding object and inflate the fragment views.
         val binding: PhotosFragmentBinding = inflate(
             inflater, R.layout.photos_fragment, container, false
         )
