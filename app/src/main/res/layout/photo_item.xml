@@ -7,11 +7,11 @@
 
         <variable
             name="photo"
-            type="com.android.flickr_app.room.Photo" />
+            type="com.android.flickr_app.data.Photo" />
 
         <variable
             name="photoClickListener"
-            type="com.android.flickr_app.PhotosCallback" />
+            type="com.android.flickr_app.ui.PhotosCallback" />
 
     </data>
 

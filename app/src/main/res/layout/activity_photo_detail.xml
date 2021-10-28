@@ -6,7 +6,7 @@
 
         <variable
             name="viewModel"
-            type="com.android.flickr_app.PhotosViewModel" />
+            type="com.android.flickr_app.ui.PhotosViewModel" />
     </data>
 
     <com.facebook.drawee.view.SimpleDraweeView

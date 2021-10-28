@@ -1,7 +1,6 @@
 package com.android.flickr_app.api
 
 import com.android.flickr_app.data.PhotosBase
-import com.android.flickr_app.room.Photo
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Query

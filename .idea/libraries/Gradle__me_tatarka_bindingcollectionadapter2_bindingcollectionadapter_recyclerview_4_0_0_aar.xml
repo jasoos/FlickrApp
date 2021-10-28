@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:4.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1c17cd26840937f0766dd212635be91b/jetified-bindingcollectionadapter-recyclerview-4.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1c17cd26840937f0766dd212635be91b/jetified-bindingcollectionadapter-recyclerview-4.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/1c17cd26840937f0766dd212635be91b/jetified-bindingcollectionadapter-recyclerview-4.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/me.tatarka.bindingcollectionadapter2/bindingcollectionadapter-recyclerview/4.0.0/e0e06eab8af17be193c7285f4972acb17d24d692/bindingcollectionadapter-recyclerview-4.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/me.tatarka.bindingcollectionadapter2/bindingcollectionadapter-recyclerview/4.0.0/948b490472cfdd0503736cb5921d1dd320768f01/bindingcollectionadapter-recyclerview-4.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

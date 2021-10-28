@@ -1,7 +1,5 @@
 package com.android.flickr_app.data
 
-import com.android.flickr_app.room.Photo
-
 class Photos {
     var page = 0
     var pages = 0
